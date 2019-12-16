@@ -1,0 +1,1 @@
+cp *.bin ../simulator/
